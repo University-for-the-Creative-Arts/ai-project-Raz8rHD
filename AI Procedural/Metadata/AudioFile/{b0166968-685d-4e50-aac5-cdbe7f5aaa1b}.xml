@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b0166968-685d-4e50-aac5-cdbe7f5aaa1b}">
+		<property name="assetPath">
+			<value>808 Bounceback (Cover) (Cover).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>176.904</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7a64146-6708-44b4-b8dc-f5b57d246a97}</destination>
+		</relationship>
+	</object>
+</objects>
