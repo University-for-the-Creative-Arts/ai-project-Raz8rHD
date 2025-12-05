@@ -18,3 +18,5 @@ parameter from the "transition condition," and hoped I would still get a nice fa
 sample. After I fixed this, everything worked as intended.
 - I can say with certainty that the use of Suno (AI Music) enhanced my production workflow because I did not have to spend hours producing the music myself before getting on with the
 technical task. The only downside is that a listener can tell by ear that the music is not "organic."
+ - https://github.com/user-attachments/assets/f12d3588-d202-49d4-a804-a3f822544d08 - Unity Project
+
